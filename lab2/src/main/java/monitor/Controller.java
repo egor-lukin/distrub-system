@@ -7,8 +7,6 @@ public class Controller extends Thread
 {
   private int _id;
 
-  private Thread _thread;
-
   private IStorage _storage;
 
   public Controller(int id, IStorage storage)
