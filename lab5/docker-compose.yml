@@ -1,0 +1,4 @@
+datagrid:
+  build: .
+  volumes:
+    - ./project:/opt/ignite/project
