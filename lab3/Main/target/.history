@@ -1,0 +1,5 @@
+sbt compile
+compile
+run
+compile
+run
